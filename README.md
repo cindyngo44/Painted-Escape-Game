@@ -1,2 +1,2 @@
 # Painted-Escape-Game
-A repository for my Painted Escape Unity Game
+View the process here: https://ngo-cindy4.wixsite.com/portfolio/painted-escape-demo
